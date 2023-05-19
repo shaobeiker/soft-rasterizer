@@ -1,1 +1,1 @@
-# soft-renderer
+# soft-rasterizer
