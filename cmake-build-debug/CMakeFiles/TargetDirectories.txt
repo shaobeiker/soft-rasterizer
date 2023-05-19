@@ -1,0 +1,3 @@
+D:/CLionProjects/soft-rasterizer/cmake-build-debug/CMakeFiles/NewProject.dir
+D:/CLionProjects/soft-rasterizer/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/soft-rasterizer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
